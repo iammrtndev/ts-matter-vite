@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.1"
+  },
+  "dependencies": {
+    "@types/matter-js": "^0.14.10",
+    "matter-js": "^0.16.1",
+    "poly-decomp": "^0.3.0"
+  }
+}
